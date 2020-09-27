@@ -65,12 +65,12 @@ George Sterpu has compiled a list of frequently asked questions & answers on his
 ## 01 - Linear Regression/Least Squares
 
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
-* [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
-* no video for lecture 13/09/2018 but you can check other videos of past years below:
-* [video (lecture 27/09/2017)](https://youtu.be/pl7uguLTMyA)
-* [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
-* [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
+* recorded videos from past years 
+   - [video (lecture 12/09/2018)](https://youtu.be/BKVqOmpYjas)
+   - [video (lecture 27/09/2017)](https://youtu.be/pl7uguLTMyA)
+   - [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
+   - [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
 * [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
 * [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
-* [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
+   - [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 
