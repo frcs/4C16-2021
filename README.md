@@ -61,6 +61,7 @@ George Sterpu has compiled a list of frequently asked questions & answers on his
 ## 00 - Introduction
 
 * [pdf slides](/handouts/handout-00-intro.pdf)
+* [notes on the timetable](/handouts/timetable-notes.pdf)
 
 ## 01 - Linear Regression/Least Squares
 
