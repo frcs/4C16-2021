@@ -71,7 +71,7 @@ George Sterpu has compiled a list of frequently asked questions & answers on his
    - [video (lecture 27/09/2017)](https://youtu.be/pl7uguLTMyA)
    - [video (lecture 28/09/2017)](https://youtu.be/j-sxXyye3JE)
    - [video (lecture 02/10/2017)](https://youtu.be/rHXUc0PCvU0)
-* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf)
-* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf)
+* [pdf tutorial on linear algebra](/handouts/tutorial-00-linear-algebra.pdf) ([solutions](/handouts/tutorial-00-linear-algebra-solutions.pdf))
+* [pdf tutorial on least squares](/handouts/tutorial-01-linear-regression.pdf) ([solutions](/handouts/tutorial-01-linear-regression-solutions.pdf))
    - [video (tutorial 17/09/2018)](https://youtu.be/VvPtJyy8v2I)
 
