@@ -38,9 +38,11 @@ Labs include designing and training various DNN for image
 classification challenges, self driving car (simulator) and text
 processing.
 
-# Handouts
+# Handouts 
 
-handouts and videos from last year an be found [here](https://frcs.github.io/4C16)
+**NEW!** Lecture Notes can be found [here](https://frcs.github.io/4C16-LectureNotes).
+
+Slides and videos from last year an be found [here](https://frcs.github.io/4C16)
 
 ## labs
 
