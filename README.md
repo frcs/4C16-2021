@@ -81,7 +81,20 @@ George Sterpu has compiled a list of frequently asked questions & answers on his
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
 * [video part 1 (lecture 04/10/2017)](https://youtu.be/Ab-IqBhbCJc)
-* part 2 video missing.
+* part 2 video missing due to technical issues in the cross-land theatre.
 * [pdf tutorial on logistic regression](/handouts/tutorial-02-logistic-regression.pdf)
+
+## 03 - Classic Classifiers
+
+* [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
+* [video (lecture 09/10/2017)](https://youtu.be/Liv6XrvM5A4)
+* part 2 missing due to technical issues in the cross-land theatre (see blackboard for this year's recording)
+
+## 04 - Evaluating Classifier Performance
+
+* [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+* [video (lecture 18/10/2017)](https://youtu.be/W_TsGSfc4ug)
+
+
 
 
