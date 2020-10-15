@@ -94,6 +94,7 @@ George Sterpu has compiled a list of frequently asked questions & answers on his
 
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
 * [video (lecture 18/10/2017)](https://youtu.be/W_TsGSfc4ug)
+* [pdf tutorial](/handouts/tutorial-04-evaluating-classifier-performance.pdf) ([solutions](/handouts/tutorial-04-evaluating-classifier-performance-solutions.pdf))
 
 
 
